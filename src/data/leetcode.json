@@ -1,0 +1,38 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "tr285",
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 102,
+            "submissions": 130
+          },
+          {
+            "difficulty": "Easy",
+            "count": 78,
+            "submissions": 105
+          },
+          {
+            "difficulty": "Medium",
+            "count": 23,
+            "submissions": 24
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 1
+          }
+        ]
+      },
+      "profile": {
+        "realName": "Tukaram Gore",
+        "ranking": 1641422,
+        "reputation": 0,
+        "starRating": 1.5,
+        "userAvatar": "https://assets.leetcode.com/users/tr285/avatar_1759731626.png"
+      }
+    }
+  }
+}
